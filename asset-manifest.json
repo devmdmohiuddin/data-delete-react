@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/data-delete-react/static/css/main.539bcf9e.chunk.css",
+    "main.js": "/data-delete-react/static/js/main.7f62b1e5.chunk.js",
+    "main.js.map": "/data-delete-react/static/js/main.7f62b1e5.chunk.js.map",
+    "runtime-main.js": "/data-delete-react/static/js/runtime-main.152d7281.js",
+    "runtime-main.js.map": "/data-delete-react/static/js/runtime-main.152d7281.js.map",
+    "static/css/2.11829350.chunk.css": "/data-delete-react/static/css/2.11829350.chunk.css",
+    "static/js/2.7702d952.chunk.js": "/data-delete-react/static/js/2.7702d952.chunk.js",
+    "static/js/2.7702d952.chunk.js.map": "/data-delete-react/static/js/2.7702d952.chunk.js.map",
+    "index.html": "/data-delete-react/index.html",
+    "precache-manifest.e7030d442d41062c77b219b883e53fdf.js": "/data-delete-react/precache-manifest.e7030d442d41062c77b219b883e53fdf.js",
+    "service-worker.js": "/data-delete-react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/data-delete-react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.539bcf9e.chunk.css.map": "/data-delete-react/static/css/main.539bcf9e.chunk.css.map",
+    "static/js/2.7702d952.chunk.js.LICENSE.txt": "/data-delete-react/static/js/2.7702d952.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.152d7281.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.7702d952.chunk.js",
+    "static/css/main.539bcf9e.chunk.css",
+    "static/js/main.7f62b1e5.chunk.js"
+  ]
+}
